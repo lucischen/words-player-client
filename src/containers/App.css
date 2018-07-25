@@ -1,0 +1,21 @@
+.box {
+    text-align: center;
+    padding-top: 50px;
+    width: 100%;
+    height: 500px;
+  }
+
+.wordBox {
+    margin-top: 100px;
+}
+
+.speech {
+}
+
+.word {
+    font-size: 60px;
+}
+
+.expression{
+    margin-top: 200px;
+}

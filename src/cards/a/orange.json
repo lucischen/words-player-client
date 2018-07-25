@@ -1,0 +1,612 @@
+{
+    "cards": [
+        {
+            "word": "abandon",
+            "speech": "v",
+            "chinese": "放棄、遺棄",
+            "EnglishSentence": "Under the pressure of the board of directors, the manager has to abandon his plan.",
+            "ChineseSentence": "在董事會的逼迫下，經理只好放棄他的計畫。",
+            "type": "orange"
+        },
+        {
+            "word": "ability",
+            "speech": "n",
+            "chinese": "能力、才能",
+            "EnglishSentence": "The president showed that he had never doubted my working ability.",
+            "ChineseSentence": "總裁表示，他從未懷疑過我的工作能力。",
+            "type": "orange"
+        },
+        {
+            "word": "able",
+            "speech": "a",
+            "chinese": "有能力的、能幹的",
+            "EnglishSentence": "The salesman said he was able to fulfill the task before Friday.",
+            "ChineseSentence": "那名銷售員說，他能夠在週五之前完成任務。",
+            "type": "orange"
+        },
+        {
+            "word": "aboard",
+            "speech": "prep/ad",
+            "chinese": "在 ... 上 / 在飛機（船、火車）上",
+            "EnglishSentence": "As far as I know, all the staff should be aboard the plane before ten a.m.",
+            "ChineseSentence": "據我所知，所有的工作人員都要在上午十點之前登機。",
+            "type": "orange"
+        },
+        {
+            "word": "abounding",
+            "speech": "a",
+            "chinese": "豐富的、大量的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "about",
+            "speech": "ad/prep",
+            "chinese": "大約 / 關於、在 ... 周圍",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "above",
+            "speech": "prep/ad",
+            "chinese": "超過、在 ... 上面 / 在上面",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "abroad",
+            "speech": "ad",
+            "chinese": "在國外、到國外",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "absent",
+            "speech": "a",
+            "chinese": "缺席的、心不在焉的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "absorb",
+            "speech": "v",
+            "chinese": "吸收、吸引",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "sccent",
+            "speech": "n/v",
+            "chinese": "口音、重音、強調 / 重讀、強調",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "accept",
+            "speech": "v",
+            "chinese": "接受、同意、承認",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "acceptant",
+            "speech": "a",
+            "chinese": "容易接受的、願意接受的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "accident",
+            "speech": "n",
+            "chinese": "事故、意外",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "accord",
+            "speech": "v",
+            "chinese": "符合、使一致",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "account",
+            "speech": "n/v",
+            "chinese": "帳戶、帳目、理由 / 解釋",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "accountant",
+            "speech": "n",
+            "chinese": "會計師、會計人員",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "accurate",
+            "speech": "a",
+            "chinese": "精確的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "accuse",
+            "speech": "v",
+            "chinese": "指控、控告、譴責",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "ache",
+            "speech": "n/v",
+            "chinese": "疼痛 / 疼痛",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "achieve",
+            "speech": "v",
+            "chinese": "取得、獲得、實現",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "achievement",
+            "speech": "n",
+            "chinese": "成就、完成、達到",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "across",
+            "speech": "prep/ad",
+            "chinese": "穿過 / 橫過",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "act",
+            "speech": "v/n",
+            "chinese": "行動、扮演、充當 / 行為、法案",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "action",
+            "speech": "n",
+            "chinese": "行動、活動",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "active",
+            "speech": "n",
+            "chinese": "積極的、主動的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "activity",
+            "speech": "n",
+            "chinese": "活動、行動",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "actor",
+            "speech": "n",
+            "chinese": "男演員",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "actress",
+            "speech": "n",
+            "chinese": "女演員",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "actual",
+            "speech": "a",
+            "chinese": "實際的、真實的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "actually",
+            "speech": "ad",
+            "chinese": "實際上、事實上",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "adapt",
+            "speech": "v",
+            "chinese": "使適應、改編",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "add",
+            "speech": "v",
+            "chinese": "添加、增加",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "address",
+            "speech": "n/v",
+            "chinese": "地址、稱呼 / 致詞、寫信給某人",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "admire",
+            "speech": "v",
+            "chinese": "羨慕、欽佩、稱讚",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "admit",
+            "speech": "v",
+            "chinese": "承認、准許進入",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "adopt",
+            "speech": "v",
+            "chinese": "採用、採納、收養",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "advance",
+            "speech": "n/v",
+            "chinese": "發展、前進 / 使前進",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "advantage",
+            "speech": "n",
+            "chinese": "優勢、有利條件、利益",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },   
+        {
+            "word": "advertise",
+            "speech": "v",
+            "chinese": "登廣告、宣傳、通知",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "advertisement",
+            "speech": "n",
+            "chinese": "廣告、宣傳",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "advice",
+            "speech": "n",
+            "chinese": "建議、勸告",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "advise",
+            "speech": "v",
+            "chinese": "建議、去鋼、忠告",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "affair",
+            "speech": "n",
+            "chinese": "事情、事物",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "affect",
+            "speech": "v",
+            "chinese": "影響、感動",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "after",
+            "speech": "prep/conj/ad",
+            "chinese": "在 ... 之後 / 在 ... 之後 / 後來",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "again",
+            "speech": "ad",
+            "chinese": "又、再一次",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "against",
+            "speech": "prep",
+            "chinese": "反對、違法、倚靠、對 ... 不利",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "age",
+            "speech": "n/v",
+            "chinese": "年齡、時代 / 使變老",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "ago",
+            "speech": "ad",
+            "chinese": "以前、以往",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "agree",
+            "speech": "v",
+            "chinese": "同意、贊成",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "agreement",
+            "speech": "n",
+            "chinese": "同意、協議",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "ahead",
+            "speech": "ad",
+            "chinese": "在前面、向前",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "aid",
+            "speech": "n/v",
+            "chinese": "幫助、援助 / 幫助、援助",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "aim",
+            "speech": "n/v",
+            "chinese": "目的、目標 / 目的在於",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "airline",
+            "speech": "n",
+            "chinese": "航線、航空公司",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "airport",
+            "speech": "n",
+            "chinese": "機場",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "alarm",
+            "speech": "n/v",
+            "chinese": "警報、鬧鐘 / 警告",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "alike",
+            "speech": "ad/a",
+            "chinese": "相似地/ 相像的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "all",
+            "speech": "a/pron",
+            "chinese": "所有的、全部的 / 全部",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "allow",
+            "speech": "v",
+            "chinese": "允許、許可",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "along",
+            "speech": "prep/ad",
+            "chinese": "沿著、順著 / 沿著、一起",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "already",
+            "speech": "ad",
+            "chinese": "已經、早已",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "altogether",
+            "speech": "ad/n",
+            "chinese": "總共、完全地 / 整個",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "among",
+            "speech": "prep",
+            "chinese": "在 ... 之中、在 ... 中間",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "amount",
+            "speech": "n/v",
+            "chinese": "數量、總額、總數 / 總計 合計",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "another",
+            "speech": "a/pron",
+            "chinese": "另一的、在一個的 / 另一個",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "answer",
+            "speech": "vn",
+            "chinese": "回答、回覆",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "anxious",
+            "speech": "a",
+            "chinese": "擔憂的、焦慮的、渴望的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "area",
+            "speech": "n",
+            "chinese": "地區、區域、範圍",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "argue",
+            "speech": "v",
+            "chinese": "爭論、辯論、討論",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "around",
+            "speech": "prep",
+            "chinese": "在 ... 左右、到處、在周圍 / 大約、到處",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "arrival",
+            "speech": "n",
+            "chinese": "到達、抵達",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "arrive",
+            "speech": "v",
+            "chinese": "到達、抵達、達成",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "average",
+            "speech": "a/n",
+            "chinese": "平均的、普通的 / 平均數",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        },
+        {
+            "word": "avoid",
+            "speech": "v",
+            "chinese": "避免、避開、躲避",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "orange"
+        }
+    ]
+}

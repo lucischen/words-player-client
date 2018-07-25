@@ -1,0 +1,453 @@
+{
+    "cards": [
+
+        {
+            "word": "abash",
+            "speech": "v",
+            "chinese": "使窘迫、使羞愧",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "abort",
+            "speech": "v",
+            "chinese": "使流產、墮胎、終止、夭折",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "abortion",
+            "speech": "n",
+            "chinese": "流產、墮胎、失敗的行動",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "abrasion",
+            "speech": "n",
+            "chinese": "磨損、擦傷處",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "abrasive",
+            "speech": "a/n",
+            "chinese": "有研磨作用的、粗暴的、傷感情的 / 磨料",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "abridge",
+            "speech": "v",
+            "chinese": "刪除、節省",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "abstain",
+            "speech": "v",
+            "chinese": "戒除、棄權",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "abstraction",
+            "speech": "n",
+            "chinese": "提取、除去、心不在焉、抽象概念",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "abstruse",
+            "speech": "a",
+            "chinese": "難解的、深奧的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "abyss",
+            "speech": "n",
+            "chinese": "深淵",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "accessibility",
+            "speech": "n",
+            "chinese": "亦接近的、義得到",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "accessorize",
+            "speech": "v",
+            "chinese": "補充、提供配件",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "accident-prone",
+            "speech": "a",
+            "chinese": "易遭遇意外的、易闖禍的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "acclimatize",
+            "speech": "v",
+            "chinese": "使習慣新氣候（環境、水土）、使適應",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "accountability",
+            "speech": "n",
+            "chinese": "有責任、義務",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "ace",
+            "speech": "n",
+            "chinese": "紙牌、能手",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "acknowledgement",
+            "speech": "n",
+            "chinese": "承認、確認、致謝",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "acoustic",
+            "speech": "a",
+            "chinese": "聲音的、聽覺的、原聲的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "acquisition",
+            "speech": "n",
+            "chinese": "獲得、得到、獲得物",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "acquisitive",
+            "speech": "a",
+            "chinese": "渴望得到的、貪得無厭的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "acre",
+            "speech": "n",
+            "chinese": "英畝、耕地、土地",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "adapter",
+            "speech": "n",
+            "chinese": "改編者、轉接器、適配器",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "admiration",
+            "speech": "n",
+            "chinese": "欽佩、讚賞",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "admittance",
+            "speech": "n",
+            "chinese": "准許進入、入場許可",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "admonish",
+            "speech": "n",
+            "chinese": "警告、責備",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "adorable",
+            "speech": "a",
+            "chinese": "迷人的、可愛的、討喜的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "adrenalin",
+            "speech": "n",
+            "chinese": "腎上腺素",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "adrift",
+            "speech": "a",
+            "chinese": "漂浮的、無目標的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "adversary",
+            "speech": "n",
+            "chinese": "競爭對手、敵手",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "advisable",
+            "speech": "a",
+            "chinese": "可取的、明智的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "aerial",
+            "speech": "n/a",
+            "chinese": "天線 / 空中的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "affirmative",
+            "speech": "a/n",
+            "chinese": "表示同意的、肯定的 / 表示同意",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "aflame",
+            "speech": "a",
+            "chinese": "著火的、燃燒的、很激動的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "after-tax",
+            "speech": "a",
+            "chinese": "稅後",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "agility",
+            "speech": "n",
+            "chinese": "敏捷、靈活",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "aisle",
+            "speech": "n",
+            "chinese": "走道、通道",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "albeit",
+            "speech": "conj",
+            "chinese": "儘管、雖然",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "align",
+            "speech": "v",
+            "chinese": "將 ... 放置、排列成線",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "allege",
+            "speech": "v",
+            "chinese": "宣稱、聲稱、陳述",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "allegedly",
+            "speech": "ad",
+            "chinese": "據稱、依期申訴",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "allergy",
+            "speech": "n",
+            "chinese": "過敏症、過敏反應",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "all-nighter",
+            "speech": "n",
+            "chinese": "通宵活動",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "alloy",
+            "speech": "n/v",
+            "chinese": "合金 / 使金屬融合、使減弱",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "allure",
+            "speech": "v/n",
+            "chinese": "誘惑、吸引",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "aloof",
+            "speech": "a",
+            "chinese": "冷淡的、疏遠的、淡漠的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "alphabetically",
+            "speech": "ad",
+            "chinese": "按字幕順序地",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "amendment",
+            "speech": "n",
+            "chinese": "更正、修改",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "antibiotic",
+            "speech": "a/n",
+            "chinese": "抗菌的 / 抗生素、抗菌素",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "arena",
+            "speech": "n",
+            "chinese": "競技場、活動場所",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "articulate",
+            "speech": "a/v",
+            "chinese": "可以表達清楚的、發音清晰的 / 清楚地表達",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "assimilate",
+            "speech": "v",
+            "chinese": "吸收、童話",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "attorney",
+            "speech": "n",
+            "chinese": "代理人、律師",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "audit",
+            "speech": "vn",
+            "chinese": "審計、查帳",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "auditory",
+            "speech": "a",
+            "chinese": "聽覺的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "avert",
+            "speech": "v",
+            "chinese": "將 ... 移開、防止、避免",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        },
+        {
+            "word": "avocation",
+            "speech": "n",
+            "chinese": "副業、嗜好",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "gold"
+        }
+    ]
+}

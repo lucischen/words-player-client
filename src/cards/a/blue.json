@@ -1,0 +1,279 @@
+{
+    "cards": [
+        {
+            "word": "abandonment",
+            "speech": "n",
+            "chinese": "拋棄、放縱",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "abduction",
+            "speech": "n",
+            "chinese": "誘拐、綁架",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "abolishment",
+            "speech": "n",
+            "chinese": "廢除、廢止",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "abolition",
+            "speech": "n",
+            "chinese": "廢除、廢止",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "above-average",
+            "speech": "a",
+            "chinese": "超過平均水準的、超常的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "abrupt",
+            "speech": "a",
+            "chinese": "生硬的、突然的、唐突的、陡峭的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "abruptly",
+            "speech": "ad",
+            "chinese": "突然地、唐突地",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "absentminded",
+            "speech": "a",
+            "chinese": "心不在焉的、茫然的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "accessory",
+            "speech": "n/a",
+            "chinese": "配件、附件、從犯 / 副的、同謀的、附屬的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "accountable",
+            "speech": "a",
+            "chinese": "有責任的、可解釋的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "accounnting",
+            "speech": "n",
+            "chinese": "會計、會計學、帳單",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        
+        {
+            "word": "accrue",
+            "speech": "v",
+            "chinese": "產生、形成、獲得",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "accuracy",
+            "speech": "a",
+            "chinese": "正確的、準確的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "accustom",
+            "speech": "v",
+            "chinese": "使習慣",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "acquirement",
+            "speech": "n",
+            "chinese": "取得、學得、才能、成就",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "adaption",
+            "speech": "n",
+            "chinese": "適應、改編本",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "addition",
+            "speech": "n",
+            "chinese": "添加、加法、增加物",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "additionally",
+            "speech": "ad",
+            "chinese": "附加地、此外、另外",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "adherence",
+            "speech": "n",
+            "chinese": "堅持、依附、忠誠",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "adjustment",
+            "speech": "n",
+            "chinese": "調整、調節、調節器",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "admirable",
+            "speech": "a",
+            "chinese": "令人欽佩的、極好的、值得讚揚的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "adverse",
+            "speech": "a",
+            "chinese": "相反的、不利的、逆向的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+
+        {
+            "word": "aggregate",
+            "speech": "n/a/v",
+            "chinese": "合計、總計 / 集合的、合計的 / 集合、合計",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "air-conditioner",
+            "speech": "n",
+            "chinese": "空調",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "amateur",
+            "speech": "n/a",
+            "chinese": "愛好者、業餘愛好者 / 業餘的、外行的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "amplify",
+            "speech": "v",
+            "chinese": "放大、擴大、增強、詳述",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "apologetic",
+            "speech": "a",
+            "chinese": "道歉的、認錯的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "apportionment",
+            "speech": "n",
+            "chinese": "分配、分攤、分派",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "appraise",
+            "speech": "v",
+            "chinese": "評價、鑑定、估價",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "assemble",
+            "speech": "v",
+            "chinese": "集合、聚集、裝配、收集",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "assistance",
+            "speech": "n",
+            "chinese": "援助、幫助",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "association",
+            "speech": "n",
+            "chinese": "協會、聯盟、社團、聯合",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+        {
+            "word": "attain",
+            "speech": "v",
+            "chinese": "達到、得到、獲得",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        },
+
+        {
+            "word": "attest",
+            "speech": "v",
+            "chinese": "證明、證實、為 ... 作證",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "blue"
+        }
+    ]
+}

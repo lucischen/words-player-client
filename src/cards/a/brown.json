@@ -1,0 +1,549 @@
+{
+    "cards": [
+        {
+            "word": "abbreviation",
+            "speech": "n",
+            "chinese": "縮寫、縮寫詞",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "abide",
+            "speech": "v",
+            "chinese": "忍受、容忍、逗留、延續",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "abnormal",
+            "speech": "a",
+            "chinese": "反常的、不規則的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "abolish",
+            "speech": "v",
+            "chinese": "廢除、革除、取消",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "aboriginal",
+            "speech": "a/n",
+            "chinese": "原始的、土著的 / 原住民",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "abound",
+            "speech": "v",
+            "chinese": "豐富、盛產、充滿",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "absence",
+            "speech": "n",
+            "chinese": "沒有、缺乏、缺席",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "abstract",
+            "speech": "a/n/v",
+            "chinese": "抽象的 / 摘要 / 摘要、提取",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+
+        {
+            "word": "abundance",
+            "speech": "n",
+            "chinese": "大量、豐富、充足",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "abundant",
+            "speech": "a",
+            "chinese": "豐富的、充裕的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "abuse",
+            "speech": "v/n",
+            "chinese": "濫用、辱罵 / 濫用、虐待",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "academic",
+            "speech": "a/v",
+            "chinese": "學院的、學術的 / 學者",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "accelerate",
+            "speech": "v",
+            "chinese": "加快、促進",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "acceptable",
+            "speech": "a",
+            "chinese": "可接受的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "access",
+            "speech": "n/v",
+            "chinese": "進入、使用權 / 使用、存取",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "accidental",
+            "speech": "a",
+            "chinese": "意外的、偶然的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "accompany",
+            "speech": "v",
+            "chinese": "陪伴、伴隨、伴奏",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "accomplish",
+            "speech": "v",
+            "chinese": "完成、實現",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "according",
+            "speech": "a/ad",
+            "chinese": "相符的 / 依照",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "accumulate",
+            "speech": "v",
+            "chinese": "積累、堆積",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "acknowledge",
+            "speech": "v",
+            "chinese": "承認、答謝、報償",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "acquaint",
+            "speech": "v",
+            "chinese": "使暸解、使認識、使熟悉",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "acquire",
+            "speech": "v",
+            "chinese": "取得、獲得、學到",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "activate",
+            "speech": "v",
+            "chinese": "刺激、使活潑",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "acute",
+            "speech": "a",
+            "chinese": "嚴重的、激烈的、敏銳的、急性子的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "adequate",
+            "speech": "a",
+            "chinese": "能勝任的、足夠的、適當的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "adhere",
+            "speech": "v",
+            "chinese": "堅持、依附、黏著",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "adjust",
+            "speech": "v",
+            "chinese": "調適、調節、使適應",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "advisor",
+            "speech": "n",
+            "chinese": "顧問、指導教師",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "afterward",
+            "speech": "ad",
+            "chinese": "後來、以後",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "agricultural",
+            "speech": "a",
+            "chinese": "農業的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "aircraft",
+            "speech": "n",
+            "chinese": "飛機、航空器",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "alert",
+            "speech": "n/v/a",
+            "chinese": "警報 / 警告、使警覺 / 警覺的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "alley",
+            "speech": "n",
+            "chinese": "小巷、小路、巷子",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "alliance",
+            "speech": "n",
+            "chinese": "結盟、聯盟",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "allot",
+            "speech": "v",
+            "chinese": "分配、分派",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "ally",
+            "speech": "n/v",
+            "chinese": "同盟國、夥伴 / 使聯盟、使聯合",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "alter",
+            "speech": "v",
+            "chinese": "改變、更改",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "amaze",
+            "speech": "v",
+            "chinese": "使吃驚、使訝異",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "ambassador",
+            "speech": "n",
+            "chinese": "大使、代表",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "amend",
+            "speech": "v",
+            "chinese": "修改、改善",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "amid",
+            "speech": "prep",
+            "chinese": "在 ... 中間、在 ... 之中",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "analyze",
+            "speech": "v",
+            "chinese": "分析",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "announce",
+            "speech": "v",
+            "chinese": "宣布、宣告、播報",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "annual",
+            "speech": "a",
+            "chinese": "每年的、年度的",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "apology",
+            "speech": "n",
+            "chinese": "道歉、認錯",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "appear",
+            "speech": "v",
+            "chinese": "出現、顯露",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "appetite",
+            "speech": "n",
+            "chinese": "食慾、胃口、嗜好",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "applaud",
+            "speech": "v",
+            "chinese": "贊同、稱讚、向... 喝采",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "apply",
+            "speech": "v",
+            "chinese": "申請、應用、請求",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "appoint",
+            "speech": "v",
+            "chinese": "任命、委派、指定",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "approval",
+            "speech": "n",
+            "chinese": "贊成、認可、批准",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "approve",
+            "speech": "v",
+            "chinese": "批准、贊成、同意",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "archive",
+            "speech": "n/v",
+            "chinese": "檔案館、檔案文件 / 把 ... 存檔",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "arise",
+            "speech": "v",
+            "chinese": "出現、上升",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "arrange",
+            "speech": "v",
+            "chinese": "安排、排列",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "aside",
+            "speech": "ad/prep",
+            "chinese": "離開、在旁邊 / 在 ... 旁邊",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "assign",
+            "speech": "v",
+            "chinese": "分配、指定、指派",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "assist",
+            "speech": "v",
+            "chinese": "幫助、協助",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "astonish",
+            "speech": "v",
+            "chinese": "使驚訝",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "attempt",
+            "speech": "v/n",
+            "chinese": "企圖、嘗試",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "attend",
+            "speech": "v",
+            "chinese": "出席、參加",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "attendance",
+            "speech": "n",
+            "chinese": "出席、到場",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "attention",
+            "speech": "n",
+            "chinese": "注意力、關心、關注",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "audience",
+            "speech": "n",
+            "chinese": "聽眾、觀眾",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "avenue",
+            "speech": "n",
+            "chinese": "林蔭道、大街",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "await",
+            "speech": "v",
+            "chinese": "等候、期待",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        },
+        {
+            "word": "awareness",
+            "speech": "n",
+            "chinese": "亦是、明白、知道",
+            "EnglishSentence": "",
+            "ChineseSentence": "",
+            "type": "brown"
+        }
+    ]
+}
