@@ -1,0 +1,413 @@
+{
+	"start_at": 1530165296,
+	"words_list": [
+		{
+			"word": "colloquial",
+			"level": 5,
+			"page": 468,
+			"sentence": "Colloquial words should be avoided in the paper."
+		},
+		{
+			"word": "commission",
+			"level": 5,
+			"page": 468,
+			"sentence": "I heard that she had received a commission to design the studio."
+		},
+		{
+			"word": "commissioner",
+			"level": 5,
+			"page": 468,
+			"sentence": "We have no idea who the commissioner of audit is."
+		},
+		{
+			"word": "comparatively",
+			"level": 5,
+			"page": 468,
+			"sentence": "The task seems to be comparatively easy."
+		},
+		{
+			"word": "compartmentalize",
+			"level": 5,
+			"page": 468,
+			"sentence": "She told me that her life was simply compartmentalized into work and leisure."
+		},
+		{
+			"word": "complacent",
+			"level": 5,
+			"page": 468,
+			"sentence": "We dislike his complacent manner."
+		},
+		{
+			"word": "composure",
+			"level": 5,
+			"page": 469,
+			"sentence": "The manager did not lose his composure even in such a difficult situation."
+		},
+		{
+			"word": "conceal",
+			"level": 5,
+			"page": 469,
+			"sentence": "I hate it when you concealed your unemployment from me."
+		},
+		{
+			"word": "conceive",
+			"level": 5,
+			"page": 469,
+			"sentence": "We cannot conceive why you agreed to the plan."
+		},
+		{
+			"word": "conceptualize",
+			"level": 5,
+			"page": 469,
+			"sentence": "She prefers to conceptualize hunting as a recreational activity."
+		},
+		{
+			"word": "concoct",
+			"level": 5,
+			"page": 469,
+			"sentence": "We are talking about what excuse she will concoct for being late."
+		},
+		{
+			"word": "concur",
+			"level": 5,
+			"page": 469,
+			"sentence": "The director fully concurred with her in the issue."
+		},
+		{
+			"word": "concussion",
+			"level": 5,
+			"page": 469,
+			"sentence": "The worker suffered from a severe concussion."
+		},
+		{
+			"word": "demote",
+			"level": 5,
+			"page": 364,
+			"sentence": "Last month, he was demoted from general manager to an ordinary employee."
+		},
+		{
+			"word": "denial",
+			"level": 5,
+			"page": 364,
+			"sentence": "The guide's denial of the request made the travelers unhappy."
+		},
+		{
+			"word": "departmental",
+			"level": 5,
+			"page": 364,
+			"sentence": "There are twenty-two departmental managers in our company."
+		},
+		{
+			"word": "deploy",
+			"level": 5,
+			"page": 364,
+			"sentence": "All of the employees are curious about how to deploy it."
+		},
+		{
+			"word": "deployment",
+			"level": 5,
+			"page": 364,
+			"sentence": "The manager will discuss the deployment project with you."
+		},
+		{
+			"word": "descend",
+			"level": 5,
+			"page": 364,
+			"sentence": "The plane full of travelers had to descend because of the bad weather."
+		},
+		{
+			"word": "designate",
+			"level": 5,
+			"page": 364,
+			"sentence": "Tom will be designated as the general manager."
+		},
+		{
+			"word": "desperate",
+			"level": 5,
+			"page": 365,
+			"sentence": "The tourists made a desperate attempt to save their live."
+		},
+		{
+			"word": "desperation",
+			"level": 5,
+			"page": 365,
+			"sentence": "He said in desperation that the company would go bankrupt."
+		},
+		{
+			"word": "diminish",
+			"level": 5,
+			"page": 365,
+			"sentence": "What he concerns is how to diminish the cost of production."
+		},
+		{
+			"word": "directory",
+			"level": 5,
+			"page": 365,
+			"sentence": "Well, you can find the boss's number on the telephone directory."
+		},
+		{
+			"word": "disadvantage",
+			"level": 5,
+			"page": 365,
+			"sentence": "This contract will put our company at a disadvantage."
+		},
+		{
+			"word": "discard",
+			"level": 5,
+			"page": 365,
+			"sentence": "He said we could discard these old documents."
+		},
+		{
+			"word": "discipline",
+			"level": 5,
+			"page": 365,
+			"sentence": "All of us have to obey the discipline in the company."
+		},
+		{
+			"word": "comprehend",
+			"level": 5,
+			"page": 266,
+			"sentence": "Most of the colleagues don't comprehend his meaning."
+		},
+		{
+			"word": "concentrate",
+			"level": 5,
+			"page": 266,
+			"sentence": "I can't concentrate on my work since it is too noisy."
+		},
+		{
+			"word": "concise",
+			"level": 5,
+			"page": 266,
+			"sentence": "The boss hopes that you can give a concise answer to the question."
+		},
+		{
+			"word": "conclude",
+			"level": 5,
+			"page": 266,
+			"sentence": "They concluded the negotiation successfully this morning."
+		},
+		{
+			"word": "condition",
+			"level": 5,
+			"page": 266,
+			"sentence": "He left the company because of the poor working condition."
+		},
+		{
+			"word": "confirm",
+			"level": 5,
+			"page": 266,
+			"sentence": "Call the boss to confirm the exact time of the conference."
+		},
+		{
+			"word": "conflict",
+			"level": 5,
+			"page": 266,
+			"sentence": "There was no conflict between management and workers this month."
+		},
+		{
+			"word": "confuse",
+			"level": 5,
+			"page": 267,
+			"sentence": "Obviously, the interviewee was confused by these questions."
+		},
+		{
+			"word": "consist",
+			"level": 5,
+			"page": 267,
+			"sentence": "What the secretary said just now does not consist with the facts."
+		},
+		{
+			"word": "consistent",
+			"level": 5,
+			"page": 267,
+			"sentence": "As a leader in the company, your action should always be consistent with your words."
+		},
+		{
+			"word": "construct",
+			"level": 5,
+			"page": 267,
+			"sentence": "The businessman determined to construct a bridge over the river."
+		},
+		{
+			"word": "construction",
+			"level": 5,
+			"page": 267,
+			"sentence": "The new hospital is still under construction."
+		},
+		{
+			"word": "consume",
+			"level": 5,
+			"page": 267,
+			"sentence": "The paper in the office was consumed after a week."
+		},
+		{
+			"word": "contain",
+			"level": 5,
+			"page": 267,
+			"sentence": "Hearing that I will get promoted, I couldn't contain myself for joy."
+		},
+		{
+			"word": "calling",
+			"level": 5,
+			"page": 164,
+			"sentence": "This is an anonymous letter calling for the employees' legitimate right."
+		},
+		{
+			"word": "campus",
+			"level": 5,
+			"page": 164,
+			"sentence": "The government agreed to build a new library for this campus"
+		},
+		{
+			"word": "cancel",
+			"level": 5,
+			"page": 164,
+			"sentence": "I remembered telling you that the meeting held by him had been canceled."
+		},
+		{
+			"word": "capacity",
+			"level": 5,
+			"page": 164,
+			"sentence": "The English specification is within the capacity of the employee."
+		},
+		{
+			"word": "capture",
+			"level": 5,
+			"page": 164,
+			"sentence": "The policeman failed to capture the hateful business spy."
+		},
+		{
+			"word": "career",
+			"level": 5,
+			"page": 164,
+			"sentence": "His innovation ability laid a solid foundation for his career."
+		},
+		{
+			"word": "carefully",
+			"level": 5,
+			"page": 165,
+			"sentence": "The staff carefully selected an investment project."
+		},
+		{
+			"word": "carry out",
+			"level": 5,
+			"page": 165,
+			"sentence": "There is no doubt that you must carry out the boss's orders."
+		},
+		{
+			"word": "cashier",
+			"level": 5,
+			"page": 165,
+			"sentence": "It's said that the accused once worked as a cashier in a bank."
+		},
+		{
+			"word": "categorize",
+			"level": 5,
+			"page": 165,
+			"sentence": "To tell you the truth, these orders are hard to categorize."
+		},
+		{
+			"word": "category",
+			"level": 5,
+			"page": 165,
+			"sentence": "You could put these files to the category they belong to."
+		},
+		{
+			"word": "cautious",
+			"level": 5,
+			"page": 165,
+			"sentence": "I think the cautious investor worthy of trust."
+		},
+		{
+			"word": "ceremony",
+			"level": 5,
+			"page": 165,
+			"sentence": "The ceremony is of great significance for the disabled."
+		},
+		{
+			"word": "cab",
+			"level": 5,
+			"page": 36,
+			"sentence": "He called a cab after walking out of the company."
+		},
+		{
+			"word": "cage",
+			"level": 5,
+			"page": 36,
+			"sentence": "You are not allowed to bring your bird cage into the office."
+		},
+		{
+			"word": "calendar",
+			"level": 5,
+			"page": 36,
+			"sentence": "Put this new calendar on my office table."
+		},
+		{
+			"word": "call",
+			"level": 5,
+			"page": 36,
+			"sentence": "You'd better call the sales manager as soon as possible."
+		},
+		{
+			"word": "calm",
+			"level": 5,
+			"page": 36,
+			"sentence": "I hope you could calm down and listen to me carefully."
+		},
+		{
+			"word": "camera",
+			"level": 5,
+			"page": 36,
+			"sentence": "The camera comes with a three-year guarantee."
+		},
+		{
+			"word": "camp",
+			"level": 5,
+			"page": 36,
+			"sentence": "All the colleagues in the office agreed to go camping on Sunday."
+		},
+		{
+			"word": "can",
+			"level": 5,
+			"page": 37,
+			"sentence": "I think I can have these files printed."
+		},
+		{
+			"word": "capable",
+			"level": 5,
+			"page": 37,
+			"sentence": "The principal said he was capable of dealing with the complaint."
+		},
+		{
+			"word": "cpital",
+			"level": 5,
+			"page": 37,
+			"sentence": "He was dismissed for making capital out of his authority."
+		},
+		{
+			"word": "care",
+			"level": 5,
+			"page": 37,
+			"sentence": "Many applicants care much about the work environment."
+		},
+		{
+			"word": "careful",
+			"level": 5,
+			"page": 37,
+			"sentence": "You should be more careful when entering the password."
+		},
+		{
+			"word": "cargo",
+			"level": 5,
+			"page": 37,
+			"sentence": "The cargo ship will arrive at the destination tomorrow afternoon."
+		},
+		{
+			"word": "carry",
+			"level": 5,
+			"page": 37,
+			"sentence": "I saw him walk out of the company carrying a briefcase."
+		}
+	]
+}

@@ -1,23 +1,20 @@
 import React from 'react'
-import cardCollection from '../cards/a'
 import './App.css'
-import { loader } from '../business/cardsLoader'
+import { newBooks } from '../business/cardsLoader'
 
 const LEFT_CODE = 37
 const UP_CODE = 38
 const RIGHT_CODE = 39 
 const DOWN_CODE = 40
 
-const cards = loader()
+const books = newBooks()
 
 export default class extends React.Component {
   constructor() {
     super()
 
     this.state = {
-      totalCard: cardCollection.a.length,
-      cards: cardCollection.a,
-      no: 0
+      word: books.Get()
     }
 
     this.onPage = this.onPage.bind(this)
@@ -37,32 +34,42 @@ export default class extends React.Component {
   }
 
   onPage(e) {
-    const { no, totalCard } = this.state
     const code = e.keyCode
     
-    let next = code === RIGHT_CODE ? no + 1 : no - 1 
-    if(next >= 0 && next < totalCard) {
-      this.setState({ no: next })
+    switch(code) {
+      case RIGHT_CODE:
+        this.setState({ word: books.Next() })
+        break;
+      case LEFT_CODE:
+        this.setState({ word: books.Prev() })
+        break;
+      case UP_CODE:
+        this.setState({ word: books.NextBook() })
+        break;
+      case DOWN_CODE:
+        this.setState({ word: books.PrevBook() })
+        break;
+      default:
     }
   }
 
   render() {
-    const { cards, no } = this.state
+    const { word } = this.state
 
     return (
       <div className="box" onKeyPress={this.rr}>
         <div>
           <div className="wordBox">
-            <div className="speech">{cards[no].speech}</div>
-            <div className="word">{cards[no].word}</div>
+            {/* <div className="speech">{word.speech}</div> */}
+            <div className="word">{word.word}</div>
           </div>
           <div className="expression">
-            <p>{cards[no].chinese}</p>
-            <p>{cards[no].EnglishSentence}</p>
-            <p>{cards[no].ChineseSentence}</p>
+            {/* <p>{cards[no].chinese}</p> */}
+            <p>{word.sentence}</p>
+            {/* <p>{cards[no].ChineseSentence}</p> */}
           </div>
         </div>
-        <button onClick={this.onRestart}>Restart</button>
+        {/* <button onClick={this.onRestart}>Restart</button> */}
       </div>
     )
   }
