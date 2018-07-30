@@ -1,6 +1,7 @@
 import React from 'react'
 import './App.css'
 import { newBooks } from '../business/cardsLoader'
+import Swipeable from 'react-swipeable'
 
 const LEFT_CODE = 37
 const UP_CODE = 38
@@ -27,6 +28,27 @@ export default class extends React.Component {
 
   componentWillUnmount() {
      document.removeEventListener("keyPress", this.onPage, false);
+  }
+
+  swipedLeft(e, absX, isFlick) {
+    if(isFlick) {
+      this.setState({ word: books.Next() })
+    }
+  }
+  swipedRight(e, absX, isFlick) {
+    if(isFlick) {
+      this.setState({ word: books.Prev() })
+    }
+  }
+  swipedUp(e, absY, isFlick) {
+    if(isFlick) {
+      this.setState({ word: books.PrevBook() })
+    }
+  }
+  swipedDown(e, absY, isFlick) {
+    if(isFlick) {
+      this.setState({ word: books.NextBook() })
+    }
   }
 
   onRestart() {
@@ -57,20 +79,27 @@ export default class extends React.Component {
     const { word } = this.state
 
     return (
-      <div className="box" onKeyPress={this.rr}>
-        <div>
-          <div className="wordBox">
-            {/* <div className="speech">{word.speech}</div> */}
-            <div className="word">{word.word}</div>
+      <Swipeable
+        onSwipedLeft={(e, absX, isFlick) => {this.swipedLeft(e, absX, isFlick)}}
+        onSwipedRight={(e, absX, isFlick) => {this.swipedRight(e, absX, isFlick)}}
+        onSwipedUp={(e, absY, isFlick) => {this.swipedUp(e, absY, isFlick)} }
+        onSwipedDown={(e, absY, isFlick) => this.swipedDown(e, absY, isFlick)} >
+
+        <div className="box" onKeyPress={this.rr}>
+          <div>
+            <div className="wordBox">
+              {/* <div className="speech">{word.speech}</div> */}
+              <div className="word">{word.word}</div>
+            </div>
+            <div className="expression">
+              {/* <p>{cards[no].chinese}</p> */}
+              <p>{word.sentence}</p>
+              {/* <p>{cards[no].ChineseSentence}</p> */}
+            </div>
           </div>
-          <div className="expression">
-            {/* <p>{cards[no].chinese}</p> */}
-            <p>{word.sentence}</p>
-            {/* <p>{cards[no].ChineseSentence}</p> */}
-          </div>
+          {/* <button onClick={this.onRestart}>Restart</button> */}
         </div>
-        {/* <button onClick={this.onRestart}>Restart</button> */}
-      </div>
+      </Swipeable>
     )
   }
 }
