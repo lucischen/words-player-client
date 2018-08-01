@@ -9,13 +9,26 @@
     margin-top: 100px;
 }
 
-.speech {
-}
-
 .word {
     font-size: 60px;
 }
 
 .expression{
     margin-top: 200px;
+}
+
+@media only screen and (max-width: 600px) {
+    .sentence{
+        line-height: 17px;
+        width: 300px;
+        display: inline-block;
+    }
+
+    .expression{
+        margin-top: 70px;
+    }
+
+    .word {
+        font-size: 30px;
+    }
 }

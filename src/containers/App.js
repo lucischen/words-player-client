@@ -93,7 +93,7 @@ export default class extends React.Component {
             </div>
             <div className="expression">
               {/* <p>{cards[no].chinese}</p> */}
-              <p>{word.sentence}</p>
+              <p className="sentence">{word.sentence}</p>
               {/* <p>{cards[no].ChineseSentence}</p> */}
             </div>
           </div>
