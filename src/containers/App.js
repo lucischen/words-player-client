@@ -77,7 +77,8 @@ export default class extends React.Component {
 
   render() {
     const { word } = this.state
-
+    let c = books.Counter()
+    
     return (
       <Swipeable
         onSwipedLeft={(e, absX, isFlick) => {this.swipedLeft(e, absX, isFlick)}}
@@ -88,7 +89,7 @@ export default class extends React.Component {
         <div className="box" onKeyPress={this.rr}>
           <div>
             <div className="wordBox">
-              {/* <div className="speech">{word.speech}</div> */}
+              <div className="counter">{c.no + 1  + "/" + c.total}</div>
               <div className="word">{word.word}</div>
             </div>
             <div className="expression">

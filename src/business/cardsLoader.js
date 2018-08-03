@@ -13,6 +13,13 @@ class Storage {
         this.words_list = words_list
     }
 
+    Counter() {
+        return {
+            no: this.word_no, 
+            total: this.total
+        }
+    }
+
     GetLen() {
         return this.total
     }
@@ -70,6 +77,10 @@ class Books {
     constructor(list) {
         this.storage = new StorageContext(list)
         this.no = 0
+    }
+
+    Counter() {
+        return this.storage.Get(this.no).Counter()
     }
   
     Get() {
