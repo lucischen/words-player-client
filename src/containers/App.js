@@ -30,6 +30,7 @@ export default class extends React.Component {
      document.removeEventListener("keyPress", this.onPage, false);
   }
 
+  // mobile flick 
   swipedLeft(e, absX, isFlick) {
     if(isFlick) {
       this.setState({ word: books.Next() })
@@ -52,7 +53,7 @@ export default class extends React.Component {
   }
 
   onRestart() {
-    this.setState({ no: 0 })
+    this.setState({word: books.ReStart()})
   }
 
   onPage(e) {
@@ -98,7 +99,7 @@ export default class extends React.Component {
               {/* <p>{cards[no].ChineseSentence}</p> */}
             </div>
           </div>
-          {/* <button onClick={this.onRestart}>Restart</button> */}
+          <button className="restart" onClick={this.onRestart}>Restart</button>
         </div>
       </Swipeable>
     )

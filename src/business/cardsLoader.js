@@ -46,6 +46,10 @@ class Storage {
         return this.words_list[this.word_no]
     }
 
+    ReStart() {
+        this.word_no = 0
+        return this.words_list[this.word_no]
+    }
 }
 
 class StorageContext {
@@ -73,6 +77,7 @@ class StorageContext {
     }
 }
 
+// book storage controller
 class Books {
     constructor(list) {
         this.storage = new StorageContext(list)
@@ -112,6 +117,10 @@ class Books {
 
         this.no --
         return this.storage.Get(this.no).Get()
+    }
+
+    ReStart() {
+        return this.storage.Get(this.no).ReStart()
     }
 
   }

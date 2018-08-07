@@ -17,6 +17,10 @@
     margin-top: 200px;
 }
 
+.restart {
+    padding: 5px 9px;
+}
+
 @media only screen and (max-width: 600px) {
     .sentence{
         line-height: 17px;
