@@ -5,6 +5,10 @@ function newBook(bookName) {
     return new Storage(0, 0, b.words_list)
 }
 
+function flush(list) {
+    return list.sort( () => Math.random() - 0.5)
+}
+
 class Storage {
     constructor(no, word_no, words_list) {
         this.no = 0
