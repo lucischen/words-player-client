@@ -76,6 +76,9 @@ export default class extends React.Component {
     }
   }
 
+  // TODO: 
+  // 1) Switch compoent by book type to display different info.
+  // 
   render() {
     const { word } = this.state
     let c = books.Counter()
@@ -100,6 +103,9 @@ export default class extends React.Component {
             </div>
           </div>
           <button className="restart" onClick={this.onRestart}>Restart</button>
+          <div>
+          <p className="tips">level {word.level} - page {word.page}</p>
+          </div>
         </div>
       </Swipeable>
     )

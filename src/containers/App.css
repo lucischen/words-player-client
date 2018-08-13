@@ -21,6 +21,11 @@
     padding: 5px 9px;
 }
 
+.tips {
+    font-family: Serif;
+    color: 	#818181;
+}
+
 @media only screen and (max-width: 600px) {
     .sentence{
         line-height: 17px;
