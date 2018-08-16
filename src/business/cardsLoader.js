@@ -81,6 +81,9 @@ class StorageContext {
     }
 }
 
+// TODO:
+// 1) Change no -> name
+// 2) Consider import the redux
 // book storage controller
 class Books {
     constructor(list) {

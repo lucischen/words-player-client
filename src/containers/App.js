@@ -77,8 +77,8 @@ export default class extends React.Component {
   }
 
   // TODO: 
-  // 1) Switch compoent by book type to display different info.
-  // 
+  // 1) Switch component by book type to display different info.
+  // 2) Select component to select the different book.
   render() {
     const { word } = this.state
     let c = books.Counter()
