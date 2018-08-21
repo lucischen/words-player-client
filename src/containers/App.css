@@ -26,6 +26,14 @@
     color: 	#818181;
 }
 
+.bookName {
+    margin: 0 0 100px 300px;
+    font-family: Serif;
+    text-align: center;
+    font-size: 12px;
+    color: #a8a8a8;
+}
+
 @media only screen and (max-width: 600px) {
     .sentence{
         line-height: 17px;
@@ -41,6 +49,10 @@
         font-size: 30px;
     }
 
+    .wordBox {
+        margin-top: 50px;
+    }
+
     .counter {
         font-size: 12px;
     }
@@ -48,5 +60,9 @@
     .restart {
         margin-top: 30px;
         padding: 10px 18px;
+    }
+
+    .bookName {
+        margin-left: 200px;
     }
 }

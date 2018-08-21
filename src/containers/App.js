@@ -93,6 +93,7 @@ export default class extends React.Component {
         <div className="box" onKeyPress={this.rr}>
           <div>
             <div className="wordBox">
+              <div className="bookName">{books.GetBookName()}</div>
               <div className="counter">{c.no + 1  + "/" + c.total}</div>
               <div className="word">{word.word}</div>
             </div>

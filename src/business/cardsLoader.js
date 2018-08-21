@@ -2,7 +2,7 @@ import list from "../books/list"
   
 function newBook(bookName) {
     var b = require(`../books/${bookName}.json`)
-    return new Storage(0, 0, b.words_list)
+    return new Storage(0, 0, bookName, b.words_list)
 }
 
 function flush(list) {
@@ -10,9 +10,10 @@ function flush(list) {
 }
 
 class Storage {
-    constructor(no, word_no, words_list) {
+    constructor(no, word_no, bookName, words_list) {
         this.no = 0
         this.word_no = 0
+        this.bookName = bookName
         this.total = words_list.length
         this.words_list = words_list
     }
@@ -105,6 +106,10 @@ class Books {
 
     Prev() {
         return this.storage.Get(this.no).Prev()
+    }
+
+    GetBookName() {
+        return this.storage.Get(this.no).bookName
     }
 
     NextBook() {
