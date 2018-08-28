@@ -90,6 +90,11 @@ class Books {
     constructor(list) {
         this.storage = new StorageContext(list)
         this.no = 0
+        this.list = list
+    }
+
+    GetTableOfContents() {
+        return this.list
     }
 
     Counter() {
