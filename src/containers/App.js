@@ -76,6 +76,11 @@ export default class extends React.Component {
     }
   }
 
+  // On Select Change
+  onChange(no) {
+    this.setState({ word: books.GetByBookName(no) })
+  }
+
   // TODO: 
   // 1) Switch component by book type to display different info.
   // 2) Select component to select the different book.

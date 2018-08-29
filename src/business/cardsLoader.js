@@ -97,6 +97,11 @@ class Books {
         return this.list
     }
 
+    GetByBookName(no) {
+        this.no = no
+        this.Get()
+    }
+
     Counter() {
         return this.storage.Get(this.no).Counter()
     }
