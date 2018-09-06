@@ -2,6 +2,7 @@ import React from 'react'
 import './App.css'
 import { newBooks } from '../business/cardsLoader'
 import Swipeable from 'react-swipeable'
+import Select from '../components/Select'
 
 const LEFT_CODE = 37
 const UP_CODE = 38
@@ -15,11 +16,13 @@ export default class extends React.Component {
     super()
 
     this.state = {
-      word: books.Get()
+      word: books.Get(),
+      selectValue: books.Counter().no
     }
 
     this.onPage = this.onPage.bind(this)
     this.onRestart = this.onRestart.bind(this)
+    this.onSelectChange = this.onSelectChange.bind(this)
 
   }
   componentWillMount () {
@@ -81,6 +84,13 @@ export default class extends React.Component {
     this.setState({ word: books.GetByBookName(no) })
   }
 
+  onSelectChange(value) {
+    this.setState({ 
+      selectValue: value,
+      word: books.SwitchBook(value)
+    })
+  }
+
   // TODO: 
   // 1) Switch component by book type to display different info.
   // 2) Select component to select the different book.
@@ -97,6 +107,7 @@ export default class extends React.Component {
 
         <div className="box" onKeyPress={this.rr}>
           <div>
+            <Select selectValue={ this.state.selectValue } onChange={this.onSelectChange}/>
             <div className="wordBox">
               <div className="bookName">{books.GetBookName()}</div>
               <div className="counter">{c.no + 1  + "/" + c.total}</div>

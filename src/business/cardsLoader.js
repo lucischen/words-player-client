@@ -122,6 +122,13 @@ class Books {
         return this.storage.Get(this.no).bookName
     }
 
+    SwitchBook(no) {
+        if (no < this.storage.Len()) {
+            this.no = no
+        }
+        return this.storage.Get(this.no).Get()
+    }
+
     NextBook() {
         if(this.no + 1 > this.storage.Len() - 1) {
             
