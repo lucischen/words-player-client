@@ -1,0 +1,365 @@
+{
+	"start_at": 1530165296,
+	"words_list": [
+		{
+			"word": "list",
+			"level": 1,
+			"page": 88,
+			"sentence": "The boss asks the assistant to make a list of what she needs to buy."
+		},
+		{
+			"word": "little",
+			"level": 1,
+			"page": 88,
+			"sentence": "The boss is so busy that he has little free time."
+		},
+		{
+			"word": "live",
+			"level": 1,
+			"page": 88,
+			"sentence": "This businessman decides to buy a villa in the suburbs and live there."
+		},
+		{
+			"word": "local",
+			"level": 1,
+			"page": 88,
+			"sentence": "The visitors ask the assistant about the local time."
+		},
+		{
+			"word": "lock",
+			"level": 1,
+			"page": 88,
+			"sentence": "The manager locked the door and stayed in the office alone."
+		},
+		{
+			"word": "long",
+			"level": 1,
+			"page": 88,
+			"sentence": "Time permitting, we will have a long meeting."
+		},
+		{
+			"word": "look",
+			"level": 1,
+			"page": 88,
+			"sentence": "He looked everywhere for ideas in order to carry out this project."
+		},
+		{
+			"word": "lose",
+			"level": 1,
+			"page": 89,
+			"sentence": "The department manager seems to be a person who easily loses his senses."
+		},
+		{
+			"word": "probability",
+			"level": 2,
+			"page": 216,
+			"sentence": "The boss asked him to calculate the probability of failure."
+		},
+		{
+			"word": "production",
+			"level": 2,
+			"page": 216,
+			"sentence": "You should try your best to cut down the cost of production."
+		},
+		{
+			"word": "promptly",
+			"level": 2,
+			"page": 216,
+			"sentence": "The bank urged him to pay the money back promptly."
+		},
+		{
+			"word": "properly",
+			"level": 2,
+			"page": 216,
+			"sentence": "I can't work properly if you continue singing."
+		},
+		{
+			"word": "property",
+			"level": 2,
+			"page": 216,
+			"sentence": "My father earned a sum of money during the property boom."
+		},
+		{
+			"word": "prosper",
+			"level": 2,
+			"page": 216,
+			"sentence": "On the contrary, his business began to prosper after that accident."
+		},
+		{
+			"word": "protection",
+			"level": 2,
+			"page": 216,
+			"sentence": "All of the workers should know the importance of environmental protection."
+		},
+		{
+			"word": "protest",
+			"level": 2,
+			"page": 217,
+			"sentence": "It was brave of him to protest to the boss he got a low pay."
+		},
+		{
+			"word": "pure",
+			"level": 2,
+			"page": 217,
+			"sentence": "The employee took part in the activity out of pure exhibitionism."
+		},
+		{
+			"word": "purely",
+			"level": 2,
+			"page": 217,
+			"sentence": "The young man got the job purely by chance."
+		},
+		{
+			"word": "puzzle",
+			"level": 2,
+			"page": 217,
+			"sentence": "The businessman was puzzled about the document."
+		},
+		{
+			"word": "reform",
+			"level": 3,
+			"page": 318,
+			"sentence": "It's mulish of the boss to refuse to acknowledge the need for reform."
+		},
+		{
+			"word": "refusal",
+			"level": 3,
+			"page": 318,
+			"sentence": "It never occurred to me that our offer was met with a firm refusal."
+		},
+		{
+			"word": "regional",
+			"level": 3,
+			"page": 318,
+			"sentence": "The regional union represents the voice of the workers there."
+		},
+		{
+			"word": "register",
+			"level": 3,
+			"page": 318,
+			"sentence": "Remember to register your resume as soon as possible."
+		},
+		{
+			"word": "registration",
+			"level": 3,
+			"page": 318,
+			"sentence": "All of the employees have to sign their names on the registration form."
+		},
+		{
+			"word": "regulation",
+			"level": 3,
+			"page": 318,
+			"sentence": "He was fined because he didn't obey the regulations of the company."
+		},
+		{
+			"word": "reinforcement",
+			"level": 3,
+			"page": 318,
+			"sentence": "The steel reinforcement they produce had a good sale in 1900."
+		},
+		{
+			"word": "reject",
+			"level": 3,
+			"page": 319,
+			"sentence": "I have the right to reject the manager's wrong requirements."
+		},
+		{
+			"word": "relatively",
+			"level": 3,
+			"page": 319,
+			"sentence": "The elder employees in the company have a relatively high level of responsibility."
+		},
+		{
+			"word": "relevant",
+			"level": 3,
+			"page": 319,
+			"sentence": "I don't think this point is relevant to our discussion."
+		},
+		{
+			"word": "reliable",
+			"level": 3,
+			"page": 319,
+			"sentence": "The information the opponents offer isn't reliable."
+		},
+		{
+			"word": "relieve",
+			"level": 3,
+			"page": 319,
+			"sentence": "The guide suggested that we play cards to relieve the tedium of the journey."
+		},
+		{
+			"word": "remain",
+			"level": 3,
+			"page": 319,
+			"sentence": "He remained silent when the boss asked why he was late."
+		},
+		{
+			"word": "remarkable",
+			"level": 3,
+			"page": 319,
+			"sentence": "I am glad that you have made remarkable headway in communicating with the customers."
+		},
+		{
+			"word": "postage",
+			"level": 4,
+			"page": 416,
+			"sentence": "She is complaining about the increase in the postage rate."
+		},
+		{
+			"word": "premises",
+			"level": 4,
+			"page": 416,
+			"sentence": "Neither of them is allowed to leave the premises."
+		},
+		{
+			"word": "prepaid",
+			"level": 4,
+			"page": 416,
+			"sentence": "She is not sure of the exact prepaid postage."
+		},
+		{
+			"word": "presence",
+			"level": 4,
+			"page": 416,
+			"sentence": "We are looking forward to your presence at the meeting."
+		},
+		{
+			"word": "presentation",
+			"level": 4,
+			"page": 416,
+			"sentence": "He has tried his best to improve the presentation of his arguments."
+		},
+		{
+			"word": "presumably",
+			"level": 4,
+			"page": 416,
+			"sentence": "Presumable Pride and Prejudice is her favorite novel."
+		},
+		{
+			"word": "prevention",
+			"level": 4,
+			"page": 416,
+			"sentence": "The prevention of fire is always of great importance."
+		},
+		{
+			"word": "preventive",
+			"level": 4,
+			"page": 417,
+			"sentence": "Be careful of the preventive measures, will you?"
+		},
+		{
+			"word": "prioritize",
+			"level": 4,
+			"page": 417,
+			"sentence": "The company always prioritizes the needs of customers."
+		},
+		{
+			"word": "processor",
+			"level": 4,
+			"page": 417,
+			"sentence": "Can't you get a new word processor?"
+		},
+		{
+			"word": "proclaim",
+			"level": 4,
+			"page": 417,
+			"sentence": "His words clearly proclaimed his sincerity."
+		},
+		{
+			"word": "progression",
+			"level": 4,
+			"page": 417,
+			"sentence": "It's sunny today after a long progression of rainy days."
+		},
+		{
+			"word": "progressive",
+			"level": 4,
+			"page": 417,
+			"sentence": "By last month, their working condition had shown progressive improvement."
+		},
+		{
+			"word": "prohibition",
+			"level": 4,
+			"page": 417,
+			"sentence": "A large number of people are in favor of the prohibition of smoking in public."
+		},
+		{
+			"word": "manuscript",
+			"level": 5,
+			"page": 520,
+			"sentence": "No sooner had she seen the editor than she submitted the manuscript to him."
+		},
+		{
+			"word": "marvelous",
+			"level": 5,
+			"page": 520,
+			"sentence": "Their performance was believed to be marvelous."
+		},
+		{
+			"word": "masterpiece",
+			"level": 5,
+			"page": 520,
+			"sentence": "My mother and sister like the masterpiece of the playwright very much."
+		},
+		{
+			"word": "mathematic",
+			"level": 5,
+			"page": 520,
+			"sentence": "The accountant was believed to be a mathematic genius."
+		},
+		{
+			"word": "mattress",
+			"level": 5,
+			"page": 520,
+			"sentence": "She bought a soft mattress for her father."
+		},
+		{
+			"word": "measurement",
+			"level": 5,
+			"page": 520,
+			"sentence": "By the time we got there, he had made the accurate measurement."
+		},
+		{
+			"word": "mediocre",
+			"level": 5,
+			"page": 521,
+			"sentence": "Food in the restaurant appeared to be mediocre."
+		},
+		{
+			"word": "menace",
+			"level": 5,
+			"page": 521,
+			"sentence": "The politician's speech created an atmosphere of menace."
+		},
+		{
+			"word": "mentality",
+			"level": 5,
+			"page": 521,
+			"sentence": "The psychologist has carried out research on the juvenile mentality since he moved to the city."
+		},
+		{
+			"word": "mentor",
+			"level": 5,
+			"page": 521,
+			"sentence": "They need a mentor for the program to empower the employees with skills."
+		},
+		{
+			"word": "messenger",
+			"level": 5,
+			"page": 521,
+			"sentence": "The express messenger left the manager's office just now."
+		},
+		{
+			"word": "metallic",
+			"level": 5,
+			"page": 521,
+			"sentence": "Try hard as he will, he will not improve his metallic voice."
+		},
+		{
+			"word": "methodology",
+			"level": 5,
+			"page": 521,
+			"sentence": "There have not been great changes in research methodologies."
+		}
+	]
+}
