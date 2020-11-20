@@ -1,5 +1,7 @@
 # words-player-client
 
+[Demo](https://lucischen.github.io/words-player-client/)
+
 feature
 - [ ] add select button to select the book
     - [ ] separate the book to another place (like google drive or another github repository)
